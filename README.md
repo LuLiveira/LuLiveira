@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lucas Oliveira, and I'm a Java Developer at Age Technology and I've been working in tech since 2014. I'm from Brazil, and.
+I'm Lucas Oliveira, and I'm a Java Developer at Age Technology and I've been working in tech since 2014. I'm from Brazil.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oIiveiralucas?style=social)](https://twitter.com/oIiveiralucas)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/lucas-oliveira1/)
