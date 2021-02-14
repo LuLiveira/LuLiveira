@@ -21,7 +21,7 @@ My name is Lucas de Oliveira Silva. I work as a Java Developer at Age Technology
 
 <a href="https://www.linkedin.com/in/lucas-oliveira1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://twitter.com/oIiveiralucas"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/oiiveiralucas"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 <a href="https://www.instagram.com/scream0lucke/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
