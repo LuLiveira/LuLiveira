@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Lucas de Oliveira Silva. I work as a Java Developer at Age Technology.
+My name is Lucas de Oliveira Silva. I work as a Java Developer at Zup Innovation.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LuLiveira&repo=LuLiveira&countColorcountColor)
 
