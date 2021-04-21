@@ -9,11 +9,11 @@ My name is Lucas de Oliveira Silva. I work as a Java Developer at Zup Innovation
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLiveira&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLiveira&layout=compact)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=LuLiveira&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=LuLiveira&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LuLiveira&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LuLiveira)
 
 ### Let's connect? 🤝
 
