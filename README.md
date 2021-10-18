@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Lucas de Oliveira Silva. I work as a Software Engineer at [PagSeguro PagBank](https://www.linkedin.com/company/pagseguro-pagbank/mycompany/).
+Meu nome é Lucas de Oliveira Silva. Eu trabalho como Engenheiro de Software na [PagSeguro PagBank](https://www.linkedin.com/company/pagseguro-pagbank/mycompany/).
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LuLiveira&repo=LuLiveira&countColorcountColor)
 
