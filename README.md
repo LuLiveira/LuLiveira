@@ -4,10 +4,11 @@
 
 
 Meu nome é Lucas de Oliveira Silva. Eu trabalho como Engenheiro de Software na [PagSeguro PagBank](https://www.linkedin.com/company/pagseguro-pagbank/mycompany/).
+My name is Lucas de Oliveira Silva. I work as Software Engineer at [PagSeguro PagBank](https://www.linkedin.com/company/pagseguro-pagbank/mycompany/).
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LuLiveira&repo=LuLiveira&countColorcountColor)
 
-### Analytics ⚙️
+### Analytics/Estatísticas ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLiveira&theme=dracula&langs_count=3&locale=pt-br)
 
@@ -21,7 +22,7 @@ Meu nome é Lucas de Oliveira Silva. Eu trabalho como Engenheiro de Software na 
 
 <a href="https://www.linkedin.com/in/lucas-oliveira1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://twitter.com/oIiveiralucas"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/scream0lucke/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://www.facebook.com/lucke.oliveira1/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 
-### Tech's 💻
+### Tech's/Teclogias 💻
 
 <a href="https://www.java.com" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
