@@ -9,9 +9,9 @@ My name is Lucas de Oliveira Silva. I work as a Software Engineer at [PagSeguro 
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuLiveira&layout=compact)
+![Github Languages](github-readme-stats.vercel.app/api/top-langs/?username=LuLiveira&theme=dracula&langs_count=3&locale=pt-br)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=LuLiveira&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=LuLiveira&show_icons=true&theme=dracula&hide=contribs,prs&locale=pt-br)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LuLiveira)
 
